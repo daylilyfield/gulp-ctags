@@ -8,7 +8,7 @@
   },
   "author": "daylilyfield",
   "license": "MIT",
-  "keywords": ['ctags', 'gulpplugin', 'gulp'],
+  "keywords": ["ctags", "gulpplugin", "gulp"],
   "repository": {
     "type": "git",
     "url": "https://github.com/daylilyfield/gulp-ctags.git"
